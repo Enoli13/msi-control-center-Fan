@@ -35,6 +35,7 @@ Bu işe yaramazsa
 **📄 Lisans (License)**  
 Bu proje tamamen **Açık Kaynak (Open Source)** olarak geliştirilmiştir. Dilediğiniz gibi geliştirebilir, değiştirebilir ve kendi reponuzda paylaşabilirsiniz.  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ **MSI Fan Control Center** ** | English ** **  
  **A lightweight, secure, and modern fan performance management application developed for MSI laptops running on Linux (CachyOS/Arch) based operating systems. It is built using Python and PySide6 (Qt6) architecture.  
