@@ -1,16 +1,12 @@
 import subprocess
 
 class HardwareController:
-    """
-    MSI Laptopun fan hızlarını ve güç profillerini yöneten saf donanım motoru.
-    """
+  
     def __init__(self):
         pass
 
     def set_fan_profile(self, profile_name):
-        """
-        isw aracını tetikleyerek fan hız profillerini ve CoolerBoost modunu değiştirir.
-        """
+      
         
         if profile_name == "coolerboost":
             command = ["pkexec", "isw", "-b", "on"]
