@@ -1,3 +1,7 @@
+# ⚡ MSI Fan Control Center — Linux için MSI laptop fan kontrolü (Cooler Boost)
+
+🌐 **Proje sayfası:** [https://enoli13.github.io/msi-fan-control/](https://enoli13.github.io/msi-fan-control/)
+
 ⚡ **MSI Fan Control Center** ** | English ** **  
  **A lightweight, secure, and modern fan performance management application developed for MSI laptops running on Linux (CachyOS/Arch) based operating systems. It is built using Python and PySide6 (Qt6) architecture.  
 ✨ **Features**  
@@ -14,8 +18,8 @@ sudo pacman -S isw
  **You can follow these steps in order to run the project on your local machine (CachyOS/Arch):  
 1. **Clone the Repository**  
 **bash**  
-git clone https://github.com  
-cd msi-control-center  
+git clone https://github.com/Enoli13/msi-control-center-Fan.git  
+cd msi-control-center-Fan  
    
   
 2. **Install Dependencies  
@@ -31,7 +35,7 @@ pip install PySide6
 python src/main.py  
    
  
-If this doesn't work, navigate into the folder by typing cd msi-control-center and try the previous command again.  
+If this doesn't work, navigate into the folder by typing cd msi-control-center-Fan and try the previous command again.  
 📄 **License  
  **This project is developed completely as Open Source. You are free to improve, modify, and share it in your own repository as you wish.  
    
@@ -56,8 +60,8 @@ sudo pacman -S isw
 **🚀 Kurulum ve Çalıştırma**  
 Projenin yerel bilgisayarınızda (CachyOS/Arch) çalıştırılması için aşağıdaki adımları sırasıyla uygulayabilirsiniz:  
 1. Depoyu Bilgisayarınıza İndirin  
-git clone https://github.com  
- cd msi-control-center  
+git clone https://github.com/Enoli13/msi-control-center-Fan.git  
+ cd msi-control-center-Fan  
    
 1. Bağımlılıkları Yükleyin  
    
@@ -71,7 +75,7 @@ python src/main.py
    
 Bu işe yaramazsa  
    
- "cd msi-control-center" yazarak klasörün içine girip önceki komutu bir daha deneyin  
+ "cd msi-control-center-Fan" yazarak klasörün içine girip önceki komutu bir daha deneyin  
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnEAAAACCAYAAAA3pIp+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVR4nO3OMQ2AABAAsSNBCkLfE07YGfHAiAU2QtIq6DIzW7UHAMBfnGt1V8fXEwAAXrse4eQF6VhvmPsAAAAASUVORK5CYII=)  
 **📄 Lisans (License)**  
 Bu proje tamamen **Açık Kaynak (Open Source)** olarak geliştirilmiştir. Dilediğiniz gibi geliştirebilir, değiştirebilir ve kendi reponuzda paylaşabilirsiniz.  
